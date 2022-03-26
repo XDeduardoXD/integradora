@@ -1,0 +1,13 @@
+.backgroundAbout {
+    background-color: #024059;  
+    background-repeat: no-repeat;
+    height: 608px;
+}
+.card{
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.card-img-top{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}

@@ -1,0 +1,41 @@
+  input {
+    width: 250px;
+    padding: 5px;
+  }
+  .redondeado {
+    border-radius: 20px;
+  }
+  .confondo {
+    background-color:transparent;
+  }
+  .sinborde {
+    border: 0;
+  }
+  .sinbordefondo {
+    background-color:transparent;
+    border: 0;
+  }
+  .outlinenone {
+    outline: none;
+    background-color:transparent;
+    border: 0;
+  }
+  .redondeadonorelieve {
+    border-top: transparent;
+    border-right: transparent;
+    border-left: transparent;
+    border-radius: 0px;
+    border-bottom: white 2px solid;
+  }
+  .stilosboton {
+    border: white 1px solid;
+  }
+  .box {
+    background: radial-gradient(circle at top right, #027e84, #024059);  
+  }
+  .box1 {
+    background: radial-gradient(circle at top right, #027e84, #024059);  
+  }
+  .colorfondo:Focus {
+    Background-color: transparent;
+}
